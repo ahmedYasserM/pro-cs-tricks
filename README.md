@@ -1,6 +1,6 @@
 ## The Aggregate Magic Algorithms
 
-This [website](http://aggregate.org/MAGIC/#Average%20of%20Integers) contains a collection of algorithms that is implements in a very efficient way.(normally you will implement it wrong)
+This [website](http://aggregate.org/MAGIC/#Average%20of%20Integers) contains a collection of algorithms that is implemented in a very efficient way.(normally you will implement it wrong)
 
 ### Algorithms
 
